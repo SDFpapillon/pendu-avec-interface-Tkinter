@@ -12,7 +12,7 @@ def liste_mot():
     input :
     return : mot_to_find (type : str)
 
-    écrit par :H. Chauveau avec la participation de : L. Jourdan
+    écrit par :*.******** avec la participation de : L. Jourdan
     vérifier par : L. Jourdan
 
     """
@@ -39,8 +39,8 @@ def list_to_string(liste):
     input : liste (type : list) /!\ ne doit contenir que des caractère /!\
     return : mot (type : string)
 
-    écrit par : L. Jourdan avec la participation de : H. Chauveau
-    vérifier par : H. Chauveau
+    écrit par : L. Jourdan avec la participation de : *.********
+    vérifier par : *.********
     """
     mot = ""
 
@@ -57,8 +57,8 @@ def generer_tiret(n):
     input : n (type : int)
     return : mot (type : string)
 
-    écrit par : L. Jourdan avec la participation de : H. Chauveau
-    vérifier par : H. Chauveau avec la participation de : L. Jourdan
+    écrit par : L. Jourdan avec la participation de : *.********
+    vérifier par : *.******** avec la participation de : L. Jourdan
     """
 
     mot = []
@@ -76,8 +76,8 @@ def frame_du_jeu():
     input : lettre_need_to_win (type : int) /!\ ne contient pas les lettres demander mais leur nombre /!\
     return : not
 
-    écrit par : L. Jourdan avec la participation de : H. Chauveau
-    vérifier par : H. Chauveau avec la participation de : L. Jourdan
+    écrit par : L. Jourdan avec la participation de : *.********
+    vérifier par : *.******** avec la participation de : L. Jourdan
     """
     global compteur
     global lettre_need_to_win
